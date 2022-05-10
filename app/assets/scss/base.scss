@@ -1,0 +1,11 @@
+// Option A: Include all of Bootstrap
+$enable-rounded: false;
+$input-bg: #807777;
+$input-border-width: 0;
+$input-color: #ffffff;
+$input-placeholder-color: #ffffff;
+
+// All of bootstrap
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
